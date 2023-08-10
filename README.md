@@ -1,2 +1,2 @@
 # Portofolio
-projek informatika
+Projek Informatika
